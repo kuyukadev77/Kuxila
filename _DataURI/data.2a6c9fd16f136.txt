@@ -1,0 +1,1 @@
+chrome-extension://cmndjbecilbocjfkibfbifhngkdmjgog/core/scripts/other/caffeine.script.js
